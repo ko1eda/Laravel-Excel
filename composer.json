@@ -23,7 +23,7 @@
     "illuminate/cache": "5.8.*|^6.0|^7.0|^8.0", 
     "illuminate/config": "5.8.*|^6.0|^7.0|^8.0", 
     "illuminate/filesystem": "5.8.*|^6.0|^7.0|^8.0",
-    "nesbot/carbon": "~1.0"
+    "nesbot/carbon": "^2.46.0"
   },
   "autoload": {
     "classmap": [
